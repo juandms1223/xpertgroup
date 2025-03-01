@@ -1,0 +1,7 @@
+{
+    "Linear Model RMSE": 51.457282603678856,
+    "Random Forest RMSE": 54.96457552214824,
+    "CatBoost MSE": 2581.9948418279378,
+    "CatBoost RMSE": 50.81333330758707,
+    "CatBoost R2": -0.0007429491846802083
+}
